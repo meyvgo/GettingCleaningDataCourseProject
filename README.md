@@ -35,7 +35,7 @@ The variable names used in the dataset were based on the features from the origi
 
 READING THE DATASET IN R
 ************************ 
-To view the dataset in R, make sure the "projectdata.txt" file is in the working directory, and use this code*:
+To view the dataset in R, make sure the "projectdata.txt" file is in the working directory, and use this code**:
 
 	data <- read.table("projectdata.txt", header = TRUE) 
     	View(data)
@@ -78,4 +78,4 @@ The script "run_analysis.R" does the following:
 
 
 
-* Thank you for the suggestion to include this in the CodeBook from: https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
+** Thank you for the suggestion to include this in the CodeBook from: https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
