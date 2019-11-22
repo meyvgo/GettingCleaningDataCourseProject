@@ -1,4 +1,4 @@
-CODE BOOK: GETTING AND CLEANING DATA COURSE PROJEcT FINAL DATASET
+CODE BOOK: GETTING AND CLEANING DATA COURSE PROJECT FINAL DATASET
 Nov 2019
 
 The original data and information about that data can be found here:
@@ -13,8 +13,7 @@ More information about the dataset and the process used to create it can be foun
 Dataset Names and Descriptions
 
  [1] activity
-        Name of the activity the subject was performing in the 
-                original experiment.
+        Name of the activity the subject was performing in the original experiment.
         Value is one of: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS",
                 "SITTING", "STANDING", "LAYING"
         
@@ -23,12 +22,13 @@ Dataset Names and Descriptions
         Value is an integer ranging from 1 to 30
 
  [3] through [68] (see below)
-        Each of these is the calculated average of all values of the corresponding                 original variable (see below) for the given activity and subject
+        Each of these is the calculated average of all values of the corresponding 
+                original variable (see below) for the given activity and subject
         Units are the same as described in the original dataset (see the file
                 "features_info.txt" included with the original data). 
                 Briefly, in that dataset:
                         Features are normalized and bounded within [-1,1].
-                        The units used for the accelerations (total and body) are                                 'g's (gravity of earth -> 9.80665 m/seg2).
+                        The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
                         The gyroscope units are rad/seg.
  
  Descriptive Name               Corresponding Original Variable
