@@ -1,6 +1,9 @@
+==================================================================
+
 Coursera Getting and Cleaning Data Course Project Final Dataset
 
 November, 2019
+
 ==================================================================
 
 This README describes the dataset found in "projectdata.txt" and how to re-create this dataset from the original data from the Human Activity Recognition Using Smartphones Data Set found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
